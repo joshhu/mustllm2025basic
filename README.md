@@ -1,8 +1,5 @@
 # 明新科大資管系2025年大型語言模型基礎課程
 
-## 投影片下載
-https://drive.google.com/file/d/1SKg97attKnw2eAnKxs3kXo3XjSFqyKoL/view?usp=drive_link
-
 ## 注意事項
 1. 課程前準備好Google帳號，並且能夠在Colab上執行課程範例程式
 2. huggingface的帳號及API key先行申請好
@@ -19,14 +16,13 @@ https://drive.google.com/file/d/1SKg97attKnw2eAnKxs3kXo3XjSFqyKoL/view?usp=drive
 - 了解大型語言模型的基礎設計
 
 
-## 上課日期(均為週三下午)
+## 上課日期(均為週三早上)
 - 2025/03/12
 - 2025/03/19
 - 2025/03/26
 - 2025/04/02
 - 2025/04/23
 - 2025/04/30
-
 
 ## 上課地點及時間
 - 下午13:10~16:00
@@ -43,6 +39,7 @@ https://drive.google.com/file/d/1SKg97attKnw2eAnKxs3kXo3XjSFqyKoL/view?usp=drive
 ## 特別感謝
 本課程內容投影片、範例程式等內容，參考了以下資料：
 
-- 李宏毅教授的課程影片
+- 李宏毅教授的課程影片(https://www.youtube.com/@HungyiLeeNTU)
+- 陳縕儂教授的課程影片(https://www.youtube.com/@VivianMiuLab)
+- Andrej Karpathy的課程影片(https://www.youtube.com/@AndrejKarpathy)
 - 其它網路相關論文及資料
-- Andrej Karpathy的課程影片
