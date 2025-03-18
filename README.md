@@ -39,7 +39,7 @@ git clone https://github.com/joshhu/mustllm2025basic.git
  本課程slido互動平台：(https://app.sli.do/event/uFrro3bwqxyC9yh2nobm8u)
  
 ## 教材內容
-- `Codes`: 課程範例程式
+- `Code`: 課程範例程式
 - `Refs`: 課程參考資料
 - `Slides`: 課程投影片
 
